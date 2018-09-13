@@ -1,0 +1,18 @@
+!version = 2.0
+
+! sub i'm = i am
+
++ *
+- Sorry I can not understand. I'm just 1 month baby, you know :)
+
++ hi
+- {random}HI|hello|hoi{/random} human
+
++ i am *
+- Nice to meet you, <star>.
+- Hello, I'm Alpha
+
++ [*] (tin|tin tran|duc tin|tran duc tin) [*]
+- He is a super handsome developer
+
+
